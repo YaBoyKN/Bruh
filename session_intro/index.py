@@ -1,0 +1,5 @@
+print("Phan Tuấn Kiệt")
+print("15 tuổi")
+print("2004")
+print("09332209005")
+print("THPT Cầu Giấy")
